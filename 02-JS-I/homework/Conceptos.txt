@@ -4,6 +4,6 @@ String: cadena de caracteres.
 
 Funciones: conjunto de instrucciones agrupadas que necesiten utilizarse en ocaciones variadas, esta agrupacion permite no repetir tanto código. Se utiliza return para indicar que es lo que devuelve dicha función.
 
-Declaraciones if: 
+Declaraciones if: sentencia que se utiliza para tomar desiciones (si y no); en caso afirmativo realiza ciertas instrucciones, y en caso que no, otras.
 
-Valores booleanos (true, false): valor binarios, verdadero/falso, 1/0
+Valores booleanos (true, false): valores de lógica binaria 1 o 0.
